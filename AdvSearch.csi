@@ -1,0 +1,14 @@
+[History]
+1=#P0#=mb	#P1#=cmdSearch_Click	#P2#=SearchDB/frmAdvSearch/cmdSearch_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091203112311	#P7#=0	#P8#=74	.
+2=#P0#=mb	#P1#=cmdRetrieve_Click	#P2#=SearchDB/frmAdvSearch/cmdRetrieve_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091203110727	#P7#=0	#P8#=48	.
+3=#P0#=mb	#P1#=DisableObjects	#P2#=SearchDB/frmAdvSearch/DisableObjects	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091203110643	#P7#=0	#P8#=1	.
+4=#P0#=mb	#P1#=EnableObjects	#P2#=SearchDB/frmAdvSearch/EnableObjects	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091203110418	#P7#=0	#P8#=6	.
+5=#P0#=mb	#P1#=cmdSelectAll_Click	#P2#=SearchDB/frmAdvSearch/cmdSelectAll_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091203105613	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=cmdCancelOperation_Click	#P2#=SearchDB/frmAdvSearch/cmdCancelOperation_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091203101355	#P7#=0	#P8#=1	.
+7=#P0#=mb	#P1#=Form_Unload	#P2#=SearchDB/frmAdvSearch/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091202174748	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=List2_DblClick	#P2#=SearchDB/frmAdvSearch/List2_DblClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091202174209	#P7#=0	#P8#=0	.
+9=#P0#=mb	#P1#=Timer1_Timer	#P2#=SearchDB/frmAdvSearch/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091202172902	#P7#=0	#P8#=2	.
+10=#P0#=mb	#P1#=TableNames	#P2#=SearchDB/frmAdvSearch/TableNames	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091202164221	#P7#=0	#P8#=10	.
+11=#P0#=mb	#P1#=cmdExit_Click	#P2#=SearchDB/frmAdvSearch/cmdExit_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091202155057	#P7#=0	#P8#=4	.
+12=#P0#=mb	#P1#=Form_QueryUnload	#P2#=SearchDB/frmAdvSearch/Form_QueryUnload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091202153907	#P7#=0	#P8#=1	.
+13=#P0#=mb	#P1#=cmdChooseDB_Click	#P2#=SearchDB/frmAdvSearch/cmdChooseDB_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091202135610	#P7#=0	#P8#=3	.
